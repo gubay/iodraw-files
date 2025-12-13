@@ -27,14 +27,14 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-4" value="classes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="309" width="71" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-9" value="粗分类结果（用于缩小数据类别范围）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-9" value="粗分类结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="182" width="105" height="44" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-10" value="粗分类结果（用于缩小数据类别范围）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="234" width="105" height="44" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-11" value="粗分类结果（用于缩小数据类别范围）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="202" width="105" height="44" as="geometry" />
+          <mxGeometry x="429" y="286" width="105" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
