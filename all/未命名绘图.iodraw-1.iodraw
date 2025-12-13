@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="可学习的prompt:【v1】【v2】【v3】...【classes】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="387" width="188" height="60" as="geometry" />
+          <mxGeometry x="344" y="387" width="188" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-19" target="PaaqCTTCOc7oTTSbUxEx-20">
           <mxGeometry relative="1" as="geometry" />
