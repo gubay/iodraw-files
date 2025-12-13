@@ -95,13 +95,19 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-30" value="模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="436" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-31" target="PaaqCTTCOc7oTTSbUxEx-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-31" value="clip image encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="723" y="287" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-32" value="计算相似度，输出类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="341" width="120" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-33" value="clip image encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-33" target="PaaqCTTCOc7oTTSbUxEx-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-33" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="723" y="234" width="104" height="32" as="geometry" />
         </mxCell>
       </root>
