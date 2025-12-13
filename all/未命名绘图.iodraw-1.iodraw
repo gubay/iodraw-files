@@ -84,7 +84,7 @@
           <mxGeometry x="264" y="544" width="128" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-25" value="clip text encoder" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="688" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="584" y="359" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
