@@ -59,8 +59,8 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="clip text encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="433" width="120" height="60" as="geometry" />
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-19" value="推理过程文字，分类依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="354" width="148" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
