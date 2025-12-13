@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="323.8823529411766" y="350.9304845473346" as="targetPoint" />
+            <mxPoint x="324" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-1" value="LLM+lora" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,7 +60,7 @@
           <mxGeometry x="427" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-19" value="推理过程文字，分类依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236" y="354" width="148" height="60" as="geometry" />
+          <mxGeometry x="105" y="374" width="148" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
