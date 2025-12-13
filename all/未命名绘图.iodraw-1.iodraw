@@ -60,8 +60,8 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-11" value="粗分类结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="286" width="105" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="clip text encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="【v1】【v2】【v3】...【classes】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="388" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-19" value="推理过程文字，分类依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="374" width="148" height="37" as="geometry" />
