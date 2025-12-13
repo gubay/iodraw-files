@@ -92,8 +92,8 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-29" value="class" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="289" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-30" value="class" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="632" y="299" width="60" height="30" as="geometry" />
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-30" value="模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="627" y="441" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
