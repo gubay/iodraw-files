@@ -80,7 +80,7 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-20" value="用一些prompt learning的方法增强prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="476" width="154" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-23" value="最终可以学到一个用于每张图片的prompt模板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="544" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
