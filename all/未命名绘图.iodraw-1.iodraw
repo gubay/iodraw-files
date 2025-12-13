@@ -10,8 +10,11 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-2" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="240" width="71" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-3" target="PaaqCTTCOc7oTTSbUxEx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-3" value="question:这个图像是哪个部位的器官(用于分类任务性能提升的话，可以直接在问题里面给定答案范围)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="177" width="202" height="32" as="geometry" />
+          <mxGeometry x="22.5" y="146" width="202" height="63" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-4" value="classes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="309" width="71" height="32" as="geometry" />
