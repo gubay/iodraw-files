@@ -86,6 +86,11 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-23" value="最终可以学到一个用于每张图片的prompt模板:&lt;br&gt;【v1】【v2】【v3】..." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="544" width="128" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718.1069910386029" y="375.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-25" value="clip text encoder" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="345" width="120" height="60" as="geometry" />
         </mxCell>
