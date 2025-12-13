@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="可学习的prompt:【v1】【v2】【v3】...【classes】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="388" width="262" height="60" as="geometry" />
+          <mxGeometry x="344" y="387" width="214" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-19" target="PaaqCTTCOc7oTTSbUxEx-20">
           <mxGeometry relative="1" as="geometry" />
@@ -84,7 +84,7 @@
           <mxGeometry x="264" y="544" width="128" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-25" value="clip text encoder" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="537" width="120" height="60" as="geometry" />
+          <mxGeometry x="688" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
