@@ -95,8 +95,8 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-30" value="模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="436" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-31" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="721" y="248" width="71" height="32" as="geometry" />
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-31" value="image encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="721" y="248" width="93" height="32" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="341" width="120" height="56" as="geometry" />
