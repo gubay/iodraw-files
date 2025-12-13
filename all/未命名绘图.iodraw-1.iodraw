@@ -10,8 +10,8 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-2" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="109" y="231" width="64" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-3" value="question:这个图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="182" width="113" height="32" as="geometry" />
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-3" value="question:这个图像是哪个部位的器官" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="182" width="202" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
