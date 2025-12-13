@@ -60,6 +60,11 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-11" value="粗分类结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="286" width="105" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323.6685144761029" y="474.99463608685664" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="【v1】【v2】【v3】...【classes】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="388" width="182" height="60" as="geometry" />
         </mxCell>
@@ -69,7 +74,7 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-19" value="推理过程文字，分类依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="396" width="148" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-20" value="用一些prompt learning的方法增强prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="475" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
