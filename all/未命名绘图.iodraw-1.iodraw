@@ -74,8 +74,14 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-19" value="推理过程文字，分类依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="396" width="148" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-20" target="PaaqCTTCOc7oTTSbUxEx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-20" value="用一些prompt learning的方法增强prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="476" width="154" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="544" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
