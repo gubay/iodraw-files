@@ -65,7 +65,7 @@
             <mxPoint x="323.6685144761029" y="474.99463608685664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="【v1】【v2】【v3】...【classes】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-16" value="可学习的prompt:【v1】【v2】【v3】...【classes】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="388" width="182" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-19" target="PaaqCTTCOc7oTTSbUxEx-20">
@@ -75,7 +75,7 @@
           <mxGeometry x="100" y="396" width="148" height="37" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-20" value="用一些prompt learning的方法增强prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247" y="476" width="154" height="60" as="geometry" />
+          <mxGeometry x="247" y="476" width="154" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
