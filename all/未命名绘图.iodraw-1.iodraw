@@ -80,7 +80,7 @@
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PaaqCTTCOc7oTTSbUxEx-23" target="PaaqCTTCOc7oTTSbUxEx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PaaqCTTCOc7oTTSbUxEx-23" value="最终可以学到一个用于每张图片的prompt模板:&lt;br&gt;[]" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="PaaqCTTCOc7oTTSbUxEx-23" value="最终可以学到一个用于每张图片的prompt模板:&lt;br&gt;【v1】【v2】【v3】..." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="544" width="128" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PaaqCTTCOc7oTTSbUxEx-25" value="clip text encoder" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
