@@ -49,7 +49,7 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9z7MB4AeUIJs7vRtroT-10" target="r9z7MB4AeUIJs7vRtroT-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-10" value="LaPA的编码器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-10" value="LaPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="285" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-11" value="答案集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
