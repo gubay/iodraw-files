@@ -91,7 +91,7 @@
           <mxGeometry x="1166" y="225" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-23" value="GPT wrong answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-24" value="dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="190" width="60" height="130" as="geometry" />
