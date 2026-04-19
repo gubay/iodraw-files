@@ -97,7 +97,7 @@
           <mxGeometry x="1000" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-24" value="dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="190" width="60" height="130" as="geometry" />
+          <mxGeometry x="930" y="190" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9z7MB4AeUIJs7vRtroT-25" target="r9z7MB4AeUIJs7vRtroT-22">
           <mxGeometry relative="1" as="geometry" />
@@ -141,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-45" value="L3_train_negative_rank" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="1350" y="50" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-46" value="text encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="70" width="120" height="60" as="geometry" />
