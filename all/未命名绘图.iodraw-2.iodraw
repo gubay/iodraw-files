@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="500" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-1" value="llava-med+sft微调+lora" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="210" width="130" height="50" as="geometry" />
         </mxCell>
@@ -45,9 +48,6 @@
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
