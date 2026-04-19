@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-10" value="LaPA的编码器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="225" width="80" height="40" as="geometry" />
+          <mxGeometry x="1030" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-11" value="答案集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-22" value="取分类器top k的错误标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="225" width="150" height="50" as="geometry" />
+          <mxGeometry x="1166" y="225" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-23" value="GPT wrong answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="310" width="120" height="60" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="940" y="180" width="60" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-25" value="分类头" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="310" width="80" height="45" as="geometry" />
+          <mxGeometry x="1170" y="300" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-27" value="L2_cls_rank" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="260" width="120" height="80" as="geometry" />
