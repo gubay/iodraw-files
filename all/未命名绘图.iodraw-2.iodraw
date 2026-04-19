@@ -93,8 +93,8 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-24" value="dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="180" width="60" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="215" width="120" height="60" as="geometry" />
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-25" value="分类头" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
