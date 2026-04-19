@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-10" value="LaPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="1100" y="215" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-11" value="答案集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry x="740" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-24" value="dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="175" width="60" height="130" as="geometry" />
+          <mxGeometry x="980" y="175" width="60" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
