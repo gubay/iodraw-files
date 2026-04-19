@@ -96,6 +96,9 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-23" value="GPT wrong answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9z7MB4AeUIJs7vRtroT-24" target="r9z7MB4AeUIJs7vRtroT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-24" value="dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="190" width="50" height="130" as="geometry" />
         </mxCell>
