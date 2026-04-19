@@ -167,11 +167,17 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-53" value="open候选答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r9z7MB4AeUIJs7vRtroT-54" target="r9z7MB4AeUIJs7vRtroT-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-54" value="close候选答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-55" value="soft fusion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-57" value="hard" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
