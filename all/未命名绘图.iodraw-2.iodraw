@@ -85,7 +85,7 @@
           <mxGeometry x="10" y="220" width="60" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-22" value="取分类器top k的错误标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="315" width="150" height="50" as="geometry" />
+          <mxGeometry x="1250" y="330" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-23" value="GPT wrong answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="310" width="120" height="60" as="geometry" />
