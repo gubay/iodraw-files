@@ -7,7 +7,7 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-1" value="llava-med" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-2" value="随机多采样构造多候选答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-2" value="随机多采样构造多候选答案，n=4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-3" value="role-aware构造多候选（通过训练的方式让llm一次性输出多个答案）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
