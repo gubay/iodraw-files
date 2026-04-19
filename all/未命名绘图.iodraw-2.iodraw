@@ -31,7 +31,7 @@
             <mxPoint x="360" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-8" value="两者融合构造一个完整候选答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-8" value="两者融合构造一个完整候选答案,n=4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="r9z7MB4AeUIJs7vRtroT-8">
@@ -39,6 +39,9 @@
             <mxPoint x="310" y="180" as="sourcePoint" />
             <mxPoint x="360" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
