@@ -47,13 +47,19 @@
           <mxGeometry x="580" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-11" value="答案集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-13" value="OPEN问题候选" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-15" value="CLOSE问题候选：直接将问题文本输入给GPT生成close问题的正反答案（答案覆盖率99%+）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="260" height="60" as="geometry" />
+          <mxGeometry x="150" y="390" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
