@@ -90,6 +90,9 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-22" value="取分类器top k的错误标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1166" y="225" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r9z7MB4AeUIJs7vRtroT-23" target="r9z7MB4AeUIJs7vRtroT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-23" value="GPT wrong answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -130,6 +133,9 @@
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-45" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-46" value="GPT wrong answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
