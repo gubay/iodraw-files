@@ -176,7 +176,7 @@
         <mxCell id="r9z7MB4AeUIJs7vRtroT-55" value="soft fusion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-57" value="hard" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-57" value="hard mask" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
