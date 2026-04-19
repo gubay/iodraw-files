@@ -165,25 +165,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-53" value="open候选答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r9z7MB4AeUIJs7vRtroT-54" target="r9z7MB4AeUIJs7vRtroT-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-54" value="close候选答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-55" value="soft fusion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-57" value="hard mask" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9z7MB4AeUIJs7vRtroT-59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="500" width="20" height="120" as="geometry" />
+          <mxGeometry x="1180" y="500" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r9z7MB4AeUIJs7vRtroT-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="541" width="60" height="30" as="geometry" />
+        <mxCell id="r9z7MB4AeUIJs7vRtroT-60" value="Answer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="541" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
