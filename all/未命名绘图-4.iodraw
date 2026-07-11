@@ -73,7 +73,7 @@
         <mxCell id="F3rjpReSB8MWjffuMPgG-19" value="Decoding path" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="16.995440673828114" y="310.0045593261719" width="105" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="F3rjpReSB8MWjffuMPgG-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F3rjpReSB8MWjffuMPgG-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;answer space&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="198" y="274" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
