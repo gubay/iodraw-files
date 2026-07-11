@@ -71,7 +71,7 @@
           <mxGeometry x="138" y="328" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-19" value="Decoding path" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="17.995440673828114" y="310.0045593261719" width="105" height="36" as="geometry" />
+          <mxGeometry x="7.995440673828114" y="307.0045593261719" width="105" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
