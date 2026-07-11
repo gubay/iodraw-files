@@ -59,7 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-13" value="Glioma" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140.17634306758282" y="343.12705901731925" width="66" height="36" as="geometry" />
+          <mxGeometry x="70.99634306758281" y="337.99705901731926" width="66" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="F3rjpReSB8MWjffuMPgG-14" value="Tumor" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="112.99947559770325" y="340.001793345256" width="62" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
