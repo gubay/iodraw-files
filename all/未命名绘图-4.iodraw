@@ -58,6 +58,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F3rjpReSB8MWjffuMPgG-13" value="Glioma" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140.17634306758282" y="343.12705901731925" width="66" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
