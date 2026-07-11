@@ -67,7 +67,7 @@
         <mxCell id="F3rjpReSB8MWjffuMPgG-15" value="Meningioma" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="182.99537921216114" y="336.9987812970632" width="93" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="F3rjpReSB8MWjffuMPgG-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F3rjpReSB8MWjffuMPgG-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5" y="212" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
