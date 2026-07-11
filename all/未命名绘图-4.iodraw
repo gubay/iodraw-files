@@ -140,7 +140,7 @@
           <mxGeometry x="242" y="225" width="46" height="21" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-50" value="GT answer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="276" y="282" width="84" height="30" as="geometry" />
+          <mxGeometry x="276" y="282" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
