@@ -88,6 +88,9 @@
         <mxCell id="F3rjpReSB8MWjffuMPgG-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;dashed=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="335.5" y="306" width="115" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="F3rjpReSB8MWjffuMPgG-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F3rjpReSB8MWjffuMPgG-33" target="F3rjpReSB8MWjffuMPgG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Fixed&lt;/b&gt; answer space&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="338" y="298" width="114" height="30" as="geometry" />
         </mxCell>
