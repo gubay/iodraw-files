@@ -97,7 +97,7 @@
         <mxCell id="F3rjpReSB8MWjffuMPgG-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=10.46;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="248" y="373" width="22" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="F3rjpReSB8MWjffuMPgG-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Fixed answer space&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F3rjpReSB8MWjffuMPgG-33" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Fixed answer space&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="338" y="260" width="114" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-34" value="Tumor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
