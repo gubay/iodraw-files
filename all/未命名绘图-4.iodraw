@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="-m2D__ZRZY5iB6o8uUvM">
-    <mxGraphModel dx="251" dy="139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,16 +134,13 @@
           <mxGeometry x="308.5" y="374" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="241" y="225" width="47" height="24" as="geometry" />
+          <mxGeometry x="153.5" y="276" width="47" height="24" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-50" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;GT answer:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="214" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F3rjpReSB8MWjffuMPgG-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F3rjpReSB8MWjffuMPgG-4" target="F3rjpReSB8MWjffuMPgG-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="147" y="265" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Tumor&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#f70808;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="147" y="276" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
