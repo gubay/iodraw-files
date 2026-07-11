@@ -122,7 +122,7 @@
           <mxGeometry x="364" y="268.36" width="58" height="24" as="geometry" />
         </mxCell>
         <mxCell id="F3rjpReSB8MWjffuMPgG-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;classifier head&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;/decoder&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="331.75" y="265.35999999999996" width="122.5" height="30" as="geometry" />
+          <mxGeometry x="330" y="256.99999999999994" width="122.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
